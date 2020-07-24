@@ -18,6 +18,17 @@ def game_hash
           slam_dunks: => 1
         }, 
         { 
+          player_name: => "Reggie Evans"
+          number: => 30
+          shoe: => 
+          points: => 22
+          rebounds: => 12
+          assits: => 12
+          steals: => 3
+          blocks: => 1
+          slam_dunks: => 1
+        },
+        {
           player_name: => "Alan Anderson"
           number: => 0
           shoe: => 16
@@ -27,9 +38,6 @@ def game_hash
           steals: => 3
           blocks: => 1
           slam_dunks: => 1
-        },
-        {
-          
         } 
         ]
           
