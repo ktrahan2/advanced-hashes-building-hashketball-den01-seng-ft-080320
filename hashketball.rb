@@ -88,8 +88,7 @@ def game_hash
           blocks: 5,
           slam_dunks: 5
         }, 
-        {
-          player_name: "Ben Gordon",
+        { player_name: "Ben Gordon",
           number: 8,
           shoe: 15,
           points: 33,
@@ -97,8 +96,7 @@ def game_hash
           assits: 2,
           steals: 1,
           blocks: 1,
-          slam_dunks: 0
-        },
+          slam_dunks: 0 },
         {
           player_name: "Kemba Walker",
           number: 33,
