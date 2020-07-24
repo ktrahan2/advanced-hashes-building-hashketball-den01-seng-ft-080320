@@ -7,7 +7,7 @@ def game_hash
       colors: ["Black", "White"],
       players: = [
         { 
-          player_name: => "Alan Anderson"
+          player_name: "Alan Anderson"
           number: 0
           shoe: 16
           points: 22
@@ -18,15 +18,15 @@ def game_hash
           slam_dunks: 1
         }, 
         { 
-          player_name: => "Reggie Evans"
-          number: => 30
-          shoe: => 
-          points: => 22
-          rebounds: => 12
-          assits: => 12
-          steals: => 3
-          blocks: => 1
-          slam_dunks: => 1
+          player_name: "Reggie Evans"
+          number: 0
+          shoe: 16
+          points: 22
+          rebounds: 12
+          assits: 12
+          steals: 3
+          blocks: 1
+          slam_dunks: 1
         },
         {
           player_name: => "Alan Anderson"
