@@ -100,15 +100,15 @@ def game_hash
           slam_dunks: 5
         }, 
         {
-          player_name: "Mason Plumlee"
-          number: 1
-          shoe: 19
-          points: 26
-          rebounds: 11
-          assits: 6
-          steals: 3
-          blocks: 8
-          slam_dunks: 5
+          player_name: "Ben Gordon"
+          number: 8
+          shoe: 15
+          points: 33
+          rebounds: 3
+          assits: 2
+          steals: 1
+          blocks: 1
+          slam_dunks: 0
         },
         {
           player_name: "Jason Terry"
