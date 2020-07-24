@@ -40,10 +40,8 @@ def game_hash
           assits: 6,
           steals: 3,
           blocks: 8,
-          slam_dunks: 5
-        },
-        {
-          player_name: "Jason Terry",
+          slam_dunks: 5 },
+        { player_name: "Jason Terry",
           number: 31,
           shoe: 15,
           points: 19,
@@ -51,8 +49,7 @@ def game_hash
           assits: 2,
           steals: 4,
           blocks: 11,
-          slam_dunks: 1,
-        }
+          slam_dunks: 1},
         ],
     away: {
       team_name: "Charlotte Hornets",
